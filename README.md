@@ -1,6 +1,8 @@
 # Sample Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract (SimpleStorage.sol), a few tests for that contract, and a Hardhat Ignition module that deploys that contract.
+* This project demonstrates a basic Hardhat use case. 
+
+It comes with a sample contract ("SimpleStorage.sol"), a few tests for that contract ("Should start with a favorite number of 0" and "Should update when we call store"), and a Hardhat Ignition module that deploys that contract ("deploy.js").
 
 Here some tasks or commands of the project:
 
